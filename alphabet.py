@@ -1,8 +1,8 @@
-s=raw_input("")
-print(s)
-if (s>'V'):
+a=raw_input("")
+print(a)
+if (a>'z'):
     print ("alphabet")
-elif (s>'v'):
+elif (a>'Z'):
     print ("alphabet")
 else:
     print ("not an alphabet")
