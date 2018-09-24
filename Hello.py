@@ -1,3 +1,3 @@
-v = int(raw_input())
-for s in xrange(v):
+b = int(raw_input())
+for a in xrange(b):
 	print "Hello"
