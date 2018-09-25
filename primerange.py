@@ -1,8 +1,10 @@
-r=int(input(""))
-for a in range(2,r+1):
-    k=0
-    for i in range(2,a//2+1):
-        if(a%i==0):
-            k=k+1
-    if(k<=0):
-        print(a)
+low = int(input(""))  
+up = int(input(""))  
+  
+for n in range(low,up+ 1):  
+   if n > 1:  
+       for i in range(2,n):  
+           if (n % i) == 0:  
+               break  
+       else:  
+           print(n)  
