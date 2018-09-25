@@ -1,4 +1,4 @@
-n = int(input("Enter a num: "))
+n = int(input())
 if (n<=1000):
     for i in range(2, n):
         if (n % i) == 0:
