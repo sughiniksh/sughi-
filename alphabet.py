@@ -5,4 +5,4 @@ if (a>'z'):
 elif (a>'Z'):
     print ("alphabet")
 else:
-    print ("not an alphabet")
+    print ("no")
