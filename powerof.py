@@ -1,3 +1,3 @@
-a = 19
-b = 3
-print a**b
+s=5
+v=3
+print s**v
