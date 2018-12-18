@@ -8,7 +8,7 @@ while temp > 0:
    temp //= 10  
   
 if num == sum:  
-   print(num,"yes")  
+   print("yes")
 else:  
-   print(num,"no")  
+   print("no")  
    
