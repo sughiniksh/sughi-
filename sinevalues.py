@@ -1,5 +1,5 @@
 import math 
   
-a = math.pi/6
+s = math.pi/6
 print ("", end="") 
-print (math.sin(a)) 
+print (math.sin(s)) 
